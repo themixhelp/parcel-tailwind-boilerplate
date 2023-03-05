@@ -13,7 +13,8 @@ awesome boilerplate to start work with pre-configured parcel and tailwind.css! ð
 
 -   **parcel** - for bundling,
 -   **prettier** - for code formatting,
--   **tailwind.css** - for styling,
+    -   **plugin-tailwindcss** - for sorting tailwind classes in recommended order
+-   **tailwindcss** - for styling,
 -   **pug** (in FUTURE) - for templating
 
 ## licensing?
