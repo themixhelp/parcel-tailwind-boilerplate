@@ -1,0 +1,17 @@
+{
+	"name": "parcel-tailwind-boilerplate",
+	"version": "0.1.0",
+	"author": "themixhelp",
+	"license": "MIT",
+
+	"source": "src/index.html",
+
+	"scripts": {
+		"start": "parcel --open",
+		"build": "parcel build"
+	},
+
+	"devDependencies": {
+		"parcel": "2.x.x"
+	}
+}
