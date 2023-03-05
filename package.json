@@ -6,7 +6,7 @@
 	"source": "src/index.html",
 	"scripts": {
 		"start": "parcel --open",
-		"build": "parcel build",
+		"build": "parcel build --no-optimize --no-content-hash",
 		"lint": "prettier --write .",
 		"lint:check": "prettier --check ."
 	},
