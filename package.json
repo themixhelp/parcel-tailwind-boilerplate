@@ -11,7 +11,10 @@
 		"lint:check": "prettier --check ."
 	},
 	"devDependencies": {
+		"@parcel/transformer-sass": "2.x.x",
 		"parcel": "2.x.x",
-		"prettier": "latest"
+		"postcss": "latest",
+		"prettier": "latest",
+		"tailwindcss": "latest"
 	}
 }
