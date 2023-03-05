@@ -15,6 +15,7 @@
 		"parcel": "2.x.x",
 		"postcss": "latest",
 		"prettier": "latest",
+		"prettier-plugin-tailwindcss": "latest",
 		"tailwindcss": "latest"
 	}
 }
