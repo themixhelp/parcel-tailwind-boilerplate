@@ -1,0 +1,10 @@
+node_modules
+dist
+.parcel-cache
+
+logs
+yarn-debug.log*
+
+.vscode
+.idea
+.DS_Store
